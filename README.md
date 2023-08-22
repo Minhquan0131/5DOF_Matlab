@@ -2,9 +2,9 @@
 
 # 5-DOF Robotic Arm Kinematics and Dynamics Simulation
 
-![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/c2d0facf-f424-49bb-ad72-af191590a422)
-![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/a7f7e6b2-db29-4337-b878-a896f7dc7031)
-![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/73994a69-14ba-4e37-b8ca-556d89e41028)
+![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/57e95c5a-6a71-45dc-a50c-29faeccb38a9)
+![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/2e92307f-66b4-4cdb-8932-82982953d817)
+
 
 
 ## Project Overview
@@ -20,5 +20,7 @@ This project focuses on simulating the kinematics and dynamics of a 5-DOF roboti
 - **Force and Torque Analysis:** Evaluate the forces and torques experienced by each joint throughout the arm's movement.
 - **Interactive GUI:** Provide an intuitive graphical user interface to input desired positions, visualize results, and analyze data.
 
-## Getting Started
+## Link
+https://www.youtube.com/watch?v=B_KQvSQvrrw
+https://www.youtube.com/watch?v=u5WpKVgASZI
 
