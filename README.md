@@ -2,8 +2,10 @@
 
 # 5-DOF Robotic Arm Kinematics and Dynamics Simulation
 
-![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/57e95c5a-6a71-45dc-a50c-29faeccb38a9)
-![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/2e92307f-66b4-4cdb-8932-82982953d817)
+![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/0b30c602-b33b-486f-8e18-a22f57ded7d7)
+
+![image](https://github.com/Minhquan0131/5DOF_Matlab/assets/103799755/d67256d5-e0a3-4089-9997-d1ae1f639b58)
+
 
 
 
